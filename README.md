@@ -6,12 +6,13 @@ Nongkrong kok main HP sendiri-sendiri? Ngobrol lah! Kami menyediakan beberapa pe
 
 ## Deskripsi Proyek
 
-Kartu Obrolan adalah aplikasi web yang dirancang untuk memfasilitasi obrolan seru di antara teman-teman. Dengan aplikasi ini, kamu bisa mengacak kartu pertanyaan yang akan memicu diskusi menarik. 
+Kartu Obrolan adalah projek gabutku yaitu web untuk memfasilitasi obrolan seru saat nongkrong bareng. Dengan fitur acak 500 kartu pertanyaan. Coba sekarang aman kok!
 
 ## Fitur
 
 - **Acak Kartu**: Klik tombol "Acak Kartu 🔄" atau gambar untuk mendapatkan kartu pertanyaan berikutnya.
-- **Pertanyaan Menarik**: Dapatkan 500 pertanyaan yang akan membuat obrolanmu lebih hidup.
+- **Pertanyaan Menarik**: Dapatkan 500 pertanyaan menarik dan random.
+- **Fitur lain**: gak usah banyak tanya, cari sendiri fitunya di[Kartu Obrolan](https://aldi-nafi0044.github.io/Kartu-Obrolan/).
 
 ## Demo
 
@@ -21,7 +22,7 @@ Kamu dapat mencoba aplikasi ini secara langsung di [Kartu Obrolan](https://aldi-
 
 1. Kunjungi halaman [Kartu Obrolan](https://aldi-nafi0044.github.io/Kartu-Obrolan/).
 2. Klik tombol "Acak Kartu 🔄" untuk mulai.
-3. Diskusikan pertanyaan yang muncul dengan teman-temanmu!
+3. Diskusikan pertanyaan yang muncul dengan teman-temanmu / pasanganmu!
 
 ## Instalasi
 
