@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kartu Obrolan by Nafi</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Welcome Screen -->
+    <div class="welcome-screen" id="welcomeScreen">
+        <div class="welcome-content">
+            <h1 class="animate__animated animate__fadeInDown">Selamat Datang di Kartu Obrolan! 🎉</h1>
+            <p class="animate__animated animate__fadeIn animate__delay-1s">Nongkrong kok main Hp sendiri-sendiri, Ngobrol lah. Nih ada beberapa pertanyaan biar nongkrong lebih seru!</p>
+            <button class="start-button animate__animated animate__pulse animate__infinite animate__slower" id="startButton">Mulai Permainan</button>
+        </div>
+    </div>
+
+    <!-- Sound Control -->
+    <div class="sound-control" id="soundControl">
+        <svg class="sound-icon" id="soundIcon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"></polygon>
+            <path d="M15.54 8.46a5 5 0 0 1 0 7.07"></path>
+            <path d="M19.07 4.93a10 10 0 0 1 0 14.14"></path>
+        </svg>
+    </div>
+
+    <div class="container animate__animated animate__fadeIn">
+        <h1 class="title">NGOBROL YUK...</h1>
+        
+        <div class="card-area">
+            <div class="card-count" id="cardCounter"></div>
+            
+            <div class="card-decorations">
+                <div class="decoration dec1"></div>
+                <div class="decoration dec2"></div>
+                <div class="decoration dec3"></div>
+                <div class="decoration dec4"></div>
+            </div>
+            
+            <div class="card-container">
+                <div class="card" id="card">
+                    <div class="card-front">
+                        <div class="card-inner-border"></div>
+                        <img id="cardImage" alt="Kartu Obrolan" src="Image 1/1.svg">
+                    </div>
+                    <div class="card-back">
+                        <div class="card-inner-border"></div>
+                        <p>Mari Mulai Obrolan Seru!</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="controls">
+            <button class="shuffle-button" id="shuffleButton">Acak Kartu 🔄</button>
+            <p class="shuffle-text">Klik "Acak Kartu 🔄" atau Gambarnya untuk kartu berikutnya</p>
+        </div>
+        
+        <div class="footer">
+            by Nafi Aldiansyah
+        </div>
+    </div>
+
+    <!-- Audio Element -->
+    <audio id="cardSound" preload="auto">
+        <source src="Sound.mp3" type="audio/mpeg">
+        Your browser does not support the audio element.
+    </audio>
+
+    <script src="script.js"></script>
+</body>
+</html>
