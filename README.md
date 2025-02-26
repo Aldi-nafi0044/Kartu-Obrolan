@@ -2,7 +2,7 @@
 
 Selamat datang di **Kartu Obrolan**! 🎉
 
-Nongkrong kok main HP sendiri-sendiri? Ngobrol lah! Kami menyediakan beberapa pertanyaan biar nongkrong lebih seru. Mari mulai permainan **NGOBROL YUK**!
+Nongkrong kok main HP sendiri-sendiri? Ngobrol lah! Kami menyediakan 500 pertanyaan biar nongkrong lebih lama!
 
 ## Deskripsi Proyek
 
@@ -12,7 +12,7 @@ Kartu Obrolan adalah projek gabutku yaitu web untuk memfasilitasi obrolan seru s
 
 - **Acak Kartu**: Klik tombol "Acak Kartu 🔄" atau gambar untuk mendapatkan kartu pertanyaan berikutnya.
 - **Pertanyaan Menarik**: Dapatkan 500 pertanyaan menarik dan random.
-- **Fitur lain**: gak usah banyak tanya, cari sendiri fitunya di[Kartu Obrolan](https://aldi-nafi0044.github.io/Kartu-Obrolan/).
+- **Fitur lain**: gak usah banyak tanya, cari sendiri fitunya di [Kartu Obrolan](https://aldi-nafi0044.github.io/Kartu-Obrolan/).
 
 ## Demo
 
